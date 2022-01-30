@@ -1,1 +1,1 @@
-# NLP-deliverable
+To run the code "NLP_code.ipynb" to reproduce the results shown in my work. You should open Jupiter Notebook and run the code. The data set "vaccination_all_tweets.csv" must be placed in the working directory as the code.
